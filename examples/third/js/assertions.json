@@ -1,0 +1,10 @@
+{
+  "simulation": "XFSCustomSimulationTest",
+  "simulationId": "78rs",
+  "start": 1528308638658,
+  "description": "",
+  "scenarios": ["SVU", "CDU", "TAU", "PU"],
+  "assertions": [
+
+  ]
+}

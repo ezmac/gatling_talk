@@ -1,0 +1,10 @@
+{
+  "simulation": "CustomSimulationTest",
+  "simulationId": "77rs",
+  "start": 1528223253114,
+  "description": "",
+  "scenarios": ["SVU", "CDU", "TAU", "PU"],
+  "assertions": [
+
+  ]
+}
